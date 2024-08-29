@@ -1,5 +1,5 @@
 {
-    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "git.openRepositoryInParentFolders": "always",
     "workbench.colorCustomizations": {
         "activityBar.background": "#3B1D61",
