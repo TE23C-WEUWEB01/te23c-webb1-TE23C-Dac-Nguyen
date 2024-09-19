@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+}
+
+div.container {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+}
+
+div.header {
+    background-color: #350000;
+    color: #370b0b;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+color: rgba(255, 255, 255, 0.658);
+    font-size: 50px;
+}
+
+p {
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+p.text-1 {
+    font-weight: 700;
+}
+
+p.text-2 {
+  font-weight: 700;
+}
+
+
+
+iframe {
+  width: 1280px;
+  height: 700px;
+ margin: 80px;
+}
+
+image.section {
+
+    width: 100%;
+    height: auto;
+}
+
+image.image-1 {
+    width: 400px;
+    height: 100px;
+  
+}
+
+image.image-2 {
+    width: 400px;
+    height: 150px;
+
+}
