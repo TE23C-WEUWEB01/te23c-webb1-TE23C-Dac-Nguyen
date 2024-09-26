@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body {
+background-image: url(https://eu-assets.simpleview-europe.com/outerhebrides2015/imageresizer/?image=%2Fdmsimgs%2Fcathy_723032381.jpg&action=ProductDetailImageFullWidthSite);
+background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+}
+
+img {
+margin-right: 10px;
+margin-bottom: auto;
+}
+
+div {
+ width: 700px;
+ background-color: bisque;
+ margin: auto;
+ margin-top: 50px;
+ border: 1px solid rgb(88, 88, 71);
+border-radius: 60px;
+font-family: "Pacifico", cursive;
+
+}
+
+h1 {
+margin-left: 250px;
+}
+
+h2 {
+  margin-left: 40px;
+}
+
+p {
+margin-left: 40px;
+}
+
+ul {
+margin-left: 15px;
+list-style-type: circle;
+}
